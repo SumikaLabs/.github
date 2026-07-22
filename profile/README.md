@@ -1,4 +1,4 @@
-# 🇵🇱 README (Polski)
+# 🇵🇱 (Polski)
 
 # 🏠 Sumika
 
@@ -21,3 +21,29 @@ Sumika to projekt składający się z aplikacji webowej, mobilnej oraz REST API,
 * **frontend** – aplikacja webowa
 * **mobile** – aplikacja mobilna
 * **docs** – dokumentacja techniczna
+
+# 🇬🇧 (English)
+
+# 🏠 Sumika
+
+**A modern property management platform.**
+
+Sumika is a project consisting of a web application, a mobile application, and a REST API designed to simplify rental property management, including properties, units, leases, payments, and maintenance requests.
+
+## Technology Stack
+
+* ASP.NET Core Web API
+* Angular
+* Flutter
+* PostgreSQL
+* Entity Framework Core
+* Docker
+
+## Repositories
+
+* **backend** – REST API
+* **frontend** – Web application
+* **mobile** – Mobile application
+* **docs** – Technical documentation
+
+🚧 This project is currently under active development.
